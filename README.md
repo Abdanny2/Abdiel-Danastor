@@ -2,6 +2,5 @@
 
 This is an HTML5 version code of my resume. 
 
-Unfortunately, I'm still in the process of learning CSS3. 
-I apologize for the fact that my resume doesn't have a nice template yet.
+I'm still in the process of writing the code in CSS3 for the template of the resume. 
 
